@@ -308,7 +308,7 @@ export default function Pricing() {
                 ))}
               </Features>
               <PlanBtn href="#contato" $highlight={plan.highlight}>
-                Solicitar diagnóstico
+                Negociar
               </PlanBtn>
             </Card>
           ))}
