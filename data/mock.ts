@@ -174,15 +174,15 @@ export const chartData = {
 
 export const testimonials = [
   {
-    name: 'Ricardo Almeida',
-    initials: 'RA',
-    role: 'Dono da Barbearia BlackCut',
+    name: 'Ricardo Dantas',
+    initials: 'RD',
+    role: 'Dono da Barbearia StudioAfro',
     text: 'Depois da UpScaler, meu WhatsApp passou a receber clientes todos os dias. O investimento se pagou no primeiro mês.',
   },
   {
-    name: 'Mariana Costa',
-    initials: 'MC',
-    role: 'Proprietária da Pizzaria Forno Vivo',
+    name: 'Maria Fernanda Costa',
+    initials: 'MFC',
+    role: 'Proprietária da Pizzaria Daskina',
     text: 'Nunca pensei que uma landing page pudesse fazer tanta diferença. Nossos pedidos online dispararam em poucas semanas.',
   },
   {
